@@ -14,7 +14,7 @@ Tasks:
 
 * Create Hive table
 
-* Process data using spark job and clean the data
+* Process/Clean data using spark job
 
 * Send email notification once the pipeline is done
 
